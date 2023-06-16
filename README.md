@@ -263,31 +263,3 @@ sl.needSpeedUp = false (默认)
 ```jsx
 sl.startLoad()
 ```
-
-
-## Other Info / 其他信息
-
-#### 我的其他分享
-
-- [👉 所有视频分享尽在我的B站](https://space.bilibili.com/345880241)
-- [👉 GSAP中文教程于文档](https://gsap.framer.wiki/)
-
-  <a href="https://gsap.framer.wiki/">
-  <img src="https://github.com/Yinglinhan/siteloader/blob/main/public/mdresource/gsap-cover.png?raw=true" style="border-radius: 6px;width:200px;"/>
-  </a>
-
-- [👉 Framer-Motion中文文档教程](https://motion.framer.wiki/)
-  
-   <a href="https://motion.framer.wiki/">
-    <img src="https://github.com/Yinglinhan/siteloader/blob/main/public/mdresource/framer-motion-cover.png?raw=true" style="border-radius: 6px;width:200px"/>
-   </a>
-
-
-#### 我的课程
-- [👉 《JavaScript高手之路全能课》](https://www.bilibili.com/cheese/play/ss1226)
-
-  <a href="https://www.bilibili.com/cheese/play/ss1226">
-    <img src="https://github.com/Yinglinhan/siteloader/blob/main/public/mdresource/course-cover.png?raw=true" style="border-radius: 6px;width:200px;"/>
-  </a>
-#### 我的微信
-  <img src="https://github.com/Yinglinhan/siteloader/blob/main/public/mdresource/qrcode.JPG?raw=true" style="border-radius: 6px;width:200px;"/>
